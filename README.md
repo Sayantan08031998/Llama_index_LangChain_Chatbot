@@ -16,3 +16,4 @@ This project integrates the Llama2 model, Llama_index, and Langchain to create a
 # Installation
 
 all installations huggingface models provided in code.
+yt link : https://www.youtube.com/watch?v=f-AXdiCyiT8&t=1281s
